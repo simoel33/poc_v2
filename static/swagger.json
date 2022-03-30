@@ -1,0 +1,15 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "description": "POC ABOUT PATIENTS ",
+    "version": "0.0.1",
+    "title": "BACK END Patient Experimentations",
+    "contact": {
+      "email": "mohamed.elyazid1@usmba.ac.ma"
+    },
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  }
+}
